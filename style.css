@@ -1,0 +1,11 @@
+.newDiv{
+    margin: 5px;
+    height: 200px;
+    background-color: aqua;
+    text-align: center;
+    font-size: large;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
